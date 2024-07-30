@@ -1,3 +1,11 @@
+
+:root {
+    --cor-cinza-claro: #f9f9f9;
+}
+
 header {
     align-items: center;
+    background: var(--cor-cinza-claro);
+    display: flex;
+    justify-content: space-between;
 }
