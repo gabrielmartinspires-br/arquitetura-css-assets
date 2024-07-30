@@ -1,6 +1,8 @@
 
 :root {
     --cor-cinza-claro: #f9f9f9;
+    --cor-cinza: #808080;
+    --cor-cinza-escuro: #333333;
 }
 
 .cabeçalho {
@@ -8,6 +10,7 @@
     background: var(--cor-cinza-claro);
     display: flex;
     justify-content: space-between;
+    padding: 0 2rem;
 }
 
 .lista-menu {
@@ -19,5 +22,17 @@
 }
 
 .lista-menu__link {
+    color: var(--cor-cinza);
+    padding-left: 1.25rem;
     text-decoration: none;
+    text-transform: lowercase;
+}
+
+.lista-menu__link:hover {
+    text-decoration: underline;
+}
+
+#ativo {
+    color: var(--cor-cinza-escuro);
+    font-weight: 700;
 }
