@@ -1,16 +1,9 @@
+@import url("./cabecalho.css");
 
 :root {
     --cor-cinza-claro: #f9f9f9;
     --cor-cinza: #808080;
     --cor-cinza-escuro: #333333;
-}
-
-.cabeçalho {
-    align-items: center;
-    background: var(--cor-cinza-claro);
-    display: flex;
-    justify-content: space-between;
-    padding: 0 2rem;
 }
 
 .menu-lista {
@@ -32,7 +25,7 @@
     text-decoration: underline;
 }
 
-#ativo {
+.menu-link.ativo {
     color: var(--cor-cinza-escuro);
     font-weight: 700;
 }
