@@ -5,6 +5,9 @@
 @import url("./banner/banner.css");
 @import url("./banner/banner-imagem.css");
 @import url("./banner/banner-titulo.css");
+@import url("./sobre/sobre.css");
+@import url("./sobre/sobre-titulo.css");
+@import url("./sobre/sobre-descricao.css");
 
 :root {
     --cor-cinza-claro: #f9f9f9;
@@ -12,5 +15,6 @@
     --cor-cinza-escuro: #333333;
     --cor-branco: #fdfdfd;
     --cor-preto: rgba(0, 0, 0, 0.75);
+    --cor-vinho: #8d0606;
     --fonte-principal: "Pacifico", cursive;
 }
