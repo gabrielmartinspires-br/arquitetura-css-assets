@@ -6,4 +6,9 @@
 }
 
 .menu-link:hover {
+    text-decoration: underline;
+}
+
+.menu-link.ativo {
+    color: var(--cor-cinza-escuro);
     
