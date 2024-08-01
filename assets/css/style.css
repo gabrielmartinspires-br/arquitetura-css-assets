@@ -3,8 +3,8 @@
 @import url("./menu/menu-link.css");
 @import url("./menu/menu-lista.css");
 @import url("./banner/banner.css");
-@import url("./banner/banner__imagem.css");
-@import url("./banner/banner__titulo.css");
+@import url("./banner/banner-imagem.css");
+@import url("./banner/banner-titulo.css");
 
 :root {
     --cor-cinza-claro: #f9f9f9;
