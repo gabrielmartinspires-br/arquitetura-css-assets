@@ -1,15 +1,2 @@
 .menu-link {
-    color: var(--cor-cinza);
-    padding-left: 1.25rem;
-    text-decoration: none;
-    text-transform: lowercase;
-}
-
-.menu-link:hover {
-    text-decoration: underline;
-}
-
-.menu-link.ativo {
-    color: var(--cor-cinza-escuro);
-    font-weight: 700;
-}
+    
