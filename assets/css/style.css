@@ -11,5 +11,6 @@
     --cor-cinza: #808080;
     --cor-cinza-escuro: #333333;
     --cor-branco: #fdfdfd;
+    --cor-preto: rgba(0, 0, 0, 0.75);
     --fonte-principal: "Pacifico", cursive;
 }
