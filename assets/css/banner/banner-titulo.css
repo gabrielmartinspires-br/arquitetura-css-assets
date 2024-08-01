@@ -1,4 +1,7 @@
 .banner__titulo {
-    color: ;
+    color: var(--cor-branco);
     font-family: var(--fonte-principal);
+    font-size: 5.0625rem;
+    position: absolute;
+    left: 50%;
 }
