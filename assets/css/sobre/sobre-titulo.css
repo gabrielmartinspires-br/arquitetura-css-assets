@@ -1,5 +1,5 @@
 .sobre__titulo {
     font-family: var(--fonte-principal);
     color: var(--cor-vinho);
-    
+    font-size: 3.1875rem;
 }
