@@ -1,3 +1,4 @@
 .receitas {
     background-color: var(--cor-cinza-meioClaro);
+    display: flex;
 }
