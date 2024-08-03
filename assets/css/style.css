@@ -9,7 +9,7 @@
 @import url("./sobre/sobre-titulo.css");
 @import url("./sobre/sobre-descricao.css");
 @import url("./receita/receita.css");
-
+@import url("./receita/receita-titulo.css");
 
 :root {
     --cor-cinza-claro: #f9f9f9;
