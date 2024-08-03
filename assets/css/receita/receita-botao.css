@@ -7,5 +7,6 @@
 }
 
 .receita__botao:hover {
+    background: var(--cor-vinhoEscuro);
     cursor: pointer;
 }
