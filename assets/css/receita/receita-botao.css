@@ -2,4 +2,5 @@
     background: var(--cor-vinho);
     border: none;
     border-radius: 5px;
+    color: var(--cor-brancoCinzento);
 }
