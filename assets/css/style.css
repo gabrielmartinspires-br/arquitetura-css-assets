@@ -15,6 +15,9 @@
 @import url("./receita/receita-conteudo.css");
 @import url("./receita/receita-botao.css");
 @import url("./receitas.css");
+@import url("./quemSomos/quemSomos.css");
+@import url("./quemSomos/quemSomos-titulo.css");
+@import url("./quemSomos/quemSomos-descricao.css");
 
 :root {
     --cor-brancoCinzento: #fdfdfd;
