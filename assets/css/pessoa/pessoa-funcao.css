@@ -1,3 +1,5 @@
 .pessoa__funcao {
     text-transform: lowercase;
+    color: var(--cor-cinza-meioEscuro);
+    font-size: 1.25rem;
 }
