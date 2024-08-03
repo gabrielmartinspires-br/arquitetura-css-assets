@@ -18,6 +18,11 @@
 @import url("./quemSomos/quemSomos.css");
 @import url("./quemSomos/quemSomos-titulo.css");
 @import url("./quemSomos/quemSomos-descricao.css");
+@import url("./pessoas.css");
+@import url("./pessoa/pessoa.css");
+@import url("./pessoa/pessoa-nome.css");
+@import url("./pessoa/pessoa-imagem.css");
+@import url("./pessoa/pessoa-funcao.css");
 
 :root {
     --cor-brancoCinzento: #fdfdfd;
