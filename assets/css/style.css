@@ -17,7 +17,8 @@
 @import url("./receitas.css");
 
 :root {
-    --cor-cinza-claro: #f9f9f9;
+    --cor-cinza-claro: #f9f9f9;    
+    --cor-cinza-meioClaro: #e5e5e5;
     --cor-cinza: #808080;
     --cor-cinza-meioEscuro: #595959;
     --cor-cinza-escuro: #333333;
