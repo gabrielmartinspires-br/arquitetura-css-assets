@@ -5,9 +5,15 @@
 @import url("./banner/banner.css");
 @import url("./banner/banner-imagem.css");
 @import url("./banner/banner-titulo.css");
-@import url("./sobre/sobre.css");
-@import url("./sobre/sobre-descricao.css");
-@import url("./sobre/sobre-titulo.css");
+@import url("./logo.css");
+@import url("./pessoas.css");
+@import url("./pessoa/pessoa.css");
+@import url("./pessoa/pessoa-funcao.css");
+@import url("./pessoa/pessoa-imagem.css");
+@import url("./pessoa/pessoa-nome.css");
+@import url("./quemSomos/quemSomos.css");
+@import url("./quemSomos/quemSomos-descricao.css");
+@import url("./quemSomos/quemSomos-titulo.css");
 @import url("./receitas.css");
 @import url("./receita/receita.css");
 @import url("./receita/receita-botao.css");
@@ -15,15 +21,10 @@
 @import url("./receita/receita-descricao.css");
 @import url("./receita/receita-imagem.css");
 @import url("./receita/receita-titulo.css");
-@import url("./quemSomos/quemSomos.css");
-@import url("./quemSomos/quemSomos-descricao.css");
-@import url("./quemSomos/quemSomos-titulo.css");
-@import url("./pessoas.css");
-@import url("./pessoa/pessoa.css");
-@import url("./pessoa/pessoa-funcao.css");
-@import url("./pessoa/pessoa-imagem.css");
-@import url("./pessoa/pessoa-nome.css");
 @import url("./rodape.css");
+@import url("./sobre/sobre.css");
+@import url("./sobre/sobre-descricao.css");
+@import url("./sobre/sobre-titulo.css");
 
 :root {
     --cor-brancoCinzento: #fdfdfd;
