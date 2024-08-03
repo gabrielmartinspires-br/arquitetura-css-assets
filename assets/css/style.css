@@ -18,11 +18,5 @@
 
 :root {
     --cor-cinza-claro: #f9f9f9;
-    --cor-cinza: #808080;
-    --cor-cinza-meioEscuro: #595959;
-    --cor-cinza-escuro: #333333;
-    --cor-branco: #fdfdfd;
-    --cor-preto: rgba(0, 0, 0, 0.75);
-    --cor-vinho: #8d0606;
-    --fonte-principal: "Pacifico", cursive;
+    
 }
