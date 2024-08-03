@@ -1,4 +1,6 @@
 .receitas {
     background-color: var(--cor-cinza-meioClaro);
     display: flex;
+    flex-wrap: wrap;
+    padding: 5rem 0 0 5rem;
 }
