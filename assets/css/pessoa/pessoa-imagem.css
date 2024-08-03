@@ -1,4 +1,11 @@
 .pessoa__imagem {
+    background: red;
+    width: 300px;
     height: 300px;
     margin: 0 auto;
 }
+
+.pessoa__imagem--roberta {
+    background-image: url('../../img/pessoas/roberta.jpg');
+}
+
