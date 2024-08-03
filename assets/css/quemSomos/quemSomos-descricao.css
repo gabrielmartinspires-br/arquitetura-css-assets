@@ -1,5 +1,5 @@
 .quem-somos__descricao {
-    font-weight: 100;
-    font-size: 1.75rem;
     color: var(--cor-cinza-meioEscuro);
+    font-size: 1.75rem;
+    font-weight: 100;    
 }
