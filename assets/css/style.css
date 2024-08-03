@@ -14,7 +14,7 @@
 @import url("./receita/receita-descricao.css");
 @import url("./receita/receita-conteudo.css");
 @import url("./receita/receita-botao.css");
-
+@import url("./receitas.css");
 
 :root {
     --cor-cinza-claro: #f9f9f9;
