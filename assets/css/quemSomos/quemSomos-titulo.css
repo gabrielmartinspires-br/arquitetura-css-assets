@@ -2,5 +2,5 @@
     margin-bottom: 1rem;
     color: var(--cor-vinho);
     font-size: 3.187rem;
-    font-family: var();
+    font-family: var(--fonte-principal);
 }
