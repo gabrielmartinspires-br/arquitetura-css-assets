@@ -5,3 +5,7 @@
     color: var(--cor-brancoCinzento);
     padding: 1rem;
 }
+
+.receita__botao:hover {
+    cursor: pointer;
+}
