@@ -23,6 +23,7 @@
 @import url("./pessoa/pessoa-funcao.css");
 @import url("./pessoa/pessoa-imagem.css");
 @import url("./pessoa/pessoa-nome.css");
+@import url("./rodape.css");
 
 :root {
     --cor-brancoCinzento: #fdfdfd;
