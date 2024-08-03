@@ -1,5 +1,6 @@
 .receita {
     background: var(--cor-brancoCinzento);
     display: flex;
+    flex-direction: column;
     
 }
