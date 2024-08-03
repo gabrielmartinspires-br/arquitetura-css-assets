@@ -1,4 +1,6 @@
 @import url("./cabecalho.css");
+@import url("./menu/menu-item.css");
+
 
 :root {
     --cor-cinza-claro: #f9f9f9;
