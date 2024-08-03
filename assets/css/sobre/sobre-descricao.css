@@ -1,17 +1,16 @@
 .sobre__descricao {
-    color: var(--cor-cinza-meioEscuro);
-    font-size: 1.75rem;
+    color: var(--cor-cinza-meioEscuro);    
     font-weight: 100;
 }
 
 @media screen and (min-width: 0) {
     .sobre__descricao {
-        font-size: 2rem;
+        font-size: 1.3rem;
     }
 }
 
 @media screen and (min-width: 768px) {
     .sobre__descricao {
-        font-size: 3.1875rem;
+        font-size: 1.75rem;
     }
 }
