@@ -4,6 +4,7 @@
     border-radius: 5px;
     color: var(--cor-brancoCinzento);
     padding: 1rem;
+    transition: all .1s ;
 }
 
 .receita__botao:hover {
