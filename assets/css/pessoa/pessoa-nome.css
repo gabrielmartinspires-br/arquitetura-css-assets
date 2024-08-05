@@ -1,4 +1,5 @@
 .pessoa__nome {
    color: var(--cor-vinho);
+   font-family: var(--fonte-principal);
    
 }
