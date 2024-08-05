@@ -7,3 +7,8 @@
     margin: 0 auto;
     width: 300px;
 }
+
+.pessoa__imagem--roberta {
+    background-image: url('../../img/pessoas/roberta.jpg');
+}
+
