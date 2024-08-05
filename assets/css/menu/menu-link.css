@@ -10,5 +10,6 @@
 }
 
 .menu__link.ativo {
+    color: var(--cor-cinza-escuro);
     
 }
